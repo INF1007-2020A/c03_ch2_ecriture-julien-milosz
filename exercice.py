@@ -10,7 +10,6 @@ def majuscule(mot):
             x = x-32
             lettre = char(x)
 
-
         resultat += lettre
     return mot
 
