@@ -5,7 +5,7 @@ def majuscule(mot):
     for lettre in mot:
         # TODO completer la fonction ici
         if ord(lettre)<=122 or ord(lettre)>=97:
-            lettre = chr(ord(lettre)-32)
+            lettre = chr(ord(lettre)-32) # enlever 32 au code décimal de chaque lettre si elle est majuscule
         resultat += lettre
     return resultat
 
