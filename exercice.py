@@ -9,7 +9,7 @@ def majuscule(mot):
         if x<=122 | x>=97:
             x = x-32
             lettre = char(x)
-            
+
 
         resultat += lettre
     return mot
