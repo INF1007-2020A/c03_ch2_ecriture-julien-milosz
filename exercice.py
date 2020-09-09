@@ -11,7 +11,7 @@ def majuscule(mot):
             lettre = chr(x)
 
         resultat += lettre
-    return mot
+    return resultat
 
 
 if __name__ == '__main__':
