@@ -8,7 +8,7 @@ def majuscule(mot):
 
         if x<=122 | x>=97
         x = x-32
-        resultat 
+        resultat = 
 
         resultat += lettre
     return mot
