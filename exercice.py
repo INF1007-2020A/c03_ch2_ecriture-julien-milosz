@@ -6,7 +6,9 @@ def majuscule(mot):
         # TODO completer la fonction ici
         x = ord(lettre)
 
-        if x<=122 | x>
+        if x<=122 | x>=97
+        x = x-32
+        resultat 
 
         resultat += lettre
     return mot
